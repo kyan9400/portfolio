@@ -1,90 +1,81 @@
-# Alhassan Alfarran - Fullstack Developer
+# Alhassan Alfarran Portfolio
+
+Welcome to my portfolio! I am Alhassan Alfarran, a Fullstack Developer with over 4 years of experience in creating dynamic and responsive web applications. My expertise spans across various technologies and frameworks, and I have a proven track record of delivering high-quality, user-centric interfaces.
+
+## Table of Contents
+
+- [About Me](#about-me)
+- [Resume](#resume)
+- [Projects](#projects)
+- [Contact](#contact)
 
 ## About Me
 
-Hello! I'm Alhassan Alfarran, a Fullstack Developer with over 4 years of experience in creating dynamic and responsive web applications. My expertise lies in frontend development, utilizing technologies such as HTML, CSS, JavaScript, React, and Vue.js. I am passionate about delivering high-quality, user-centric interfaces and optimizing performance for seamless user experiences.
+With over 4 years of experience in frontend development, I bring a strong foundation in creating dynamic and responsive web applications. My expertise spans across HTML, CSS, JavaScript, and modern frameworks like Vue.js and React. I have a proven track record of delivering high-quality, user-centric interfaces and am proficient in utilizing tools such as Git, Webpack, and Vite to streamline development processes.
 
-## Skills
+In addition to frontend development, I have extensive experience in blockchain development, including smart contract development, DeFi protocols, and NFTs. I have worked on various blockchain projects, integrating with DeFi platforms and creating NFT marketplaces.
 
-- **React**: 95%
-- **Node.js**: 85%
-- **Data Visualization**: 90%
-- **Statistical Analysis**: 85%
-- **Machine Learning**: 80%
+### Profile
 
-## Profile
+- **Name:** Alhassan Alfarran
+- **Job Role:** Fullstack Developer
+- **Experience:** 4 Years 3 Months
+- **Address:** Russia, Moscow
 
-- **Job Role**: Fullstack Developer
-- **Domain**: Web Development, E-commerce & Digital Marketing
-- **Education**: Bachelor of Computer Science
-- **Languages**: English, Russian, Arabic
+### Skills and Technologies
 
-## Technologies & Tools
+- **Languages:** JavaScript, Python, C++, C
+- **Frameworks:** React.js, Vue.js, Next.js, AngularJS
+- **Databases:** PostgreSQL, MongoDB, Redis
+- **Tools:** Git, Webpack, Vite, Figma, Tailwind CSS, Bootstrap
+- **Blockchain:** Solidity, Web3, Truffle, Hardhat, MetaMask, Infura, Alchemy
+- **Analytics:** Google Analytics, SEO
+- **Other Skills:** Responsive Design, Cross-Browser Compatibility, State Management, API Integration
 
-- **Technologies**: React, HTML, CSS, JavaScript, Vue.js, TypeScript
-- **Tools**: Git, Webpack, Vite, Figma, Tailwind CSS, Excel, JIRA, Google Analytics, SEO
-- **Other Skills**: Responsive Design, Cross-Browser Compatibility, State Management, API Integration
+## Resume
 
-## Experience
-
-### Fullstack Developer
-**Artifex, USA (Remote)**
-*September 2024 - February 2025*
-- Developed and maintained web applications using React and MongoDB.
-- Created reliable and high-performance applications.
-- Interacted with APIs and developed user interfaces.
-- Participated in projects to automate business processes.
-- Optimized application performance and scalability.
-
-### Fullstack Developer
-**Freelancer (Remote)**
-*February 2020 - May 2024*
-- Developed and maintained various web applications for clients.
-- Created adaptive and cross-browser compatible websites.
-- Collaborated with clients to define project requirements and specifications.
-- Optimized performance and improved user experience.
-- Provided support and updates for existing web applications.
+Experienced Fullstack Developer with over 4 years of expertise in creating dynamic and responsive web applications. Proficient in frontend development with a strong command of HTML, CSS, JavaScript, and modern frameworks like Vue.js and React. Skilled in creating user-centric interfaces and optimizing performance for seamless user experiences.
 
 ## Education
 
-- **Master in Computer Science**
-  *University of Science and Technology MISIS, Moscow, Russia*
-  *2024-2026*
+- **Master in Computer Science** (2024-2026)
+  - University of Science and Technology MISIS, Moscow, Russia
+- **Bachelor in Computer Science** (2020-2024)
+  - Ural Federal University, Yekaterinburg, Sverdlovsk Oblast
 
-- **Bachelor in Computer Science**
-  *Ural Federal University, Yekaterinburg, Sverdlovsk Oblast*
-  *2020-2024*
+## Certificates
+
+- **Concurrency in Go** (2023) - Coursera
+- **Data Visualization** (2023) - freeCodeCamp
+- **Functions, Methods, and Interfaces in Go** (2023) - Coursera
+- **Getting Started with Go** (2023) - Coursera
+- **Programming with Google Go Specialization** (2023) - Coursera
+- **Front End Development Libraries** (2023) - freeCodeCamp
+- **JavaScript Algorithms and Data Structures** (2023) - freeCodeCamp
+- **Responsive Web Design** (2023) - freeCodeCamp
+- **Multi-threaded Programming in C/C++** (2022) - Stepik
+- **Front-End JavaScript Frameworks: Angular** (2022) - Coursera
+- **Front-End Web UI Frameworks and Tools: Bootstrap 4** (2022) - Coursera
+- **Full Stack Web Development with Angular Specialization** (2022) - Coursera
+- **Server-side Development with NodeJS, Express and MongoDB** (2022) - Coursera
+- **Building Web Applications in PHP** (2022) - Coursera
+- **Introduction to Structured Query Language (SQL)** (2022) - Coursera
+- **Machine Learning for All** (2022) - Coursera
+- **Understanding and Visualizing Data with Python** (2022) - Coursera
 
 ## Projects
 
-### To-do App
-A digital tool that helps users manage tasks and boost productivity by allowing them to create, organize, and track tasks with features like reminders, due dates, and progress tracking, all within an intuitive interface.
-
-### naumen.scala.course
-A course structured with lectures available as HTML presentations in the `/lectures/` directory, accessible offline by downloading the entire folder. Homework assignments are found in the `/homeworks/` directory and will be uploaded as the course progresses.
-
-### Responsive Pricing Page
-A responsive pricing page for a website where users can purchase credits for video generation. The page includes multiple pricing options and a section for entering promo codes. It is designed to be user-friendly across both desktop and mobile platforms.
-
-## Achievements
-
-- **Projects Completed**: 19
-- **Mentored Students**: 647
-- **Cups of Coffee**: 323
+- [To-do App](https://github.com/kyan9400/todo-app)
+- [naumen.scala.course](https://github.com/kyan9400/naumen.scala.course.2023.spring)
+- [Responsive Pricing Page](https://github.com/kyan9400/pricing_page)
+- [Simple E-commerce Website](https://shop-website-sable.vercel.app/)
+- [RentHouse Website](https://real-estate-website-ten-lyart.vercel.app/)
+- [Educal - Online Learning Platform](https://ak-edu-pearl.vercel.app/)
+- [Musicax](https://music-app-eight-liart.vercel.app/)
 
 ## Contact
 
-- **Address**: Russia, Moscow
-- **Contact Number**: +7 919 399 749
-- **Email Address**: [kyan775909@gmail.com](mailto:kyan775909@gmail.com)
-- **Download Resume**: [Resume Link](resumelink)
-
-## Interests
-
-- Traveling
-- Travel Photography
-- Learning New Technologies
-
----
-
-©2025 All rights reserved
+- **Email:** kyan775909@gmail.com
+- **Phone:** +7 919 399 749
+- **LinkedIn:** [Alhassan Alfarran](https://www.linkedin.com/in/alhassan-alfarran-880b00246/)
+- **
