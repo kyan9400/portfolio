@@ -9703,13 +9703,16 @@ textarea.form-control {
   100% {
     stroke-dasharray: 89, 200;
     stroke-dashoffset: -136px; } }
+/* General styles for the container */
 .certificates-container {
     display: grid;
-    grid-template-columns: repeat(5, 1fr); /* Five columns per row */
     gap: 16px; /* Adjust the gap as needed */
     justify-content: center;
+    padding: 16px; /* Add padding to the container for better spacing */
+    box-sizing: border-box; /* Ensure box-sizing includes padding and border */
 }
 
+/* Styles for each certificate box */
 .certificate-box {
     background-color: #333; /* Example background color */
     color: #fff; /* Example text color */
@@ -9721,34 +9724,70 @@ textarea.form-control {
     justify-content: space-between;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Optional: add shadow */
     opacity: 0; /* Start with opacity 0 for fade-in effect */
-    transform: scale(0.9); /* Start slightly smaller for scale-up effect */
-    animation: fadeInScaleUp 0.6s forwards; /* Apply fade-in and scale-up animation */
-    transition: transform 0.3s; /* Optional: add transition for hover effect */
+    transform: scale(0.5); /* Start slightly smaller for scale-up effect */
+    animation: fadeInScaleUp 3.0s forwards; /* Apply fade-in and scale-up animation */
+    transition: transform 0.1s; /* Optional: add transition for hover effect */
+    box-sizing: border-box; /* Ensure box-sizing includes padding and border */
 }
 
+/* Hover effect for the certificate box */
 .certificate-box:hover {
     transform: scale(1.05); /* Scale up on hover */
 }
 
+/* Styles for the date inside the certificate box */
 .certificate-box .date {
     font-size: 14px;
     color: #ffdd00; /* Example color for date */
 }
 
+/* Styles for the title inside the certificate box */
 .certificate-box h2 {
     font-size: 18px;
     margin: 10px 0;
 }
 
+/* Styles for the position inside the certificate box */
 .certificate-box .position {
     font-size: 14px;
     color: #bbb; /* Example color for position */
     margin-top: auto; /* Push position to the bottom */
 }
 
+/* Keyframes for the fade-in and scale-up animation */
 @keyframes fadeInScaleUp {
     to {
         opacity: 1; /* Fade in */
         transform: scale(1); /* Scale up to normal size */
+    }
+}
+
+/* Media Queries for Responsiveness */
+
+/* Large screens */
+@media (min-width: 1200px) {
+    .certificates-container {
+        grid-template-columns: repeat(5, 1fr); /* Five columns per row */
+    }
+}
+
+/* Medium screens */
+@media (min-width: 768px) and (max-width: 1199px) {
+    .certificates-container {
+        grid-template-columns: repeat(3, 1fr); /* Three columns per row */
+    }
+}
+
+/* Small screens */
+@media (max-width: 767px) {
+    .certificates-container {
+        grid-template-columns: repeat(2, 1fr); /* Two columns per row */
+    }
+}
+
+/* Extra small screens */
+@media (max-width: 480px) {
+    .certificates-container {
+        grid-template-columns: 1fr; /* One column per row */
     }
 }
