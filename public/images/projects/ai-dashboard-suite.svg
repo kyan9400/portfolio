@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" fill="none" aria-hidden="true">
+  <defs>
+    <linearGradient id="dash-bg" x1="600" y1="0" x2="600" y2="750" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0c1929"/>
+      <stop offset="0.55" stop-color="#0c4a6e"/>
+      <stop offset="1" stop-color="#082f49"/>
+    </linearGradient>
+    <linearGradient id="dash-bar" x1="0" y1="1" x2="0" y2="0">
+      <stop stop-color="#0284c7"/>
+      <stop offset="1" stop-color="#38bdf8"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="750" fill="url(#dash-bg)"/>
+  <rect x="48" y="48" width="1104" height="64" rx="14" fill="#0f172a" fill-opacity="0.45" stroke="#38bdf8" stroke-opacity="0.25" stroke-width="1.2"/>
+  <rect x="72" y="70" width="200" height="18" rx="4" fill="#e2e8f0" fill-opacity="0.12"/>
+  <rect x="920" y="68" width="100" height="22" rx="8" fill="#0ea5e9" fill-opacity="0.45"/>
+  <rect x="1036" y="68" width="92" height="22" rx="8" fill="#1e293b" fill-opacity="0.8" stroke="#7dd3fc" stroke-opacity="0.3" stroke-width="1"/>
+  <!-- left chart card -->
+  <rect x="48" y="136" width="560" height="566" rx="18" fill="#0f172a" fill-opacity="0.4" stroke="#0ea5e9" stroke-opacity="0.22" stroke-width="1.2"/>
+  <rect x="80" y="172" width="140" height="12" rx="3" fill="#94a3b8" fill-opacity="0.3"/>
+  <rect x="80" y="204" width="496" height="200" rx="12" fill="#082f49" fill-opacity="0.6"/>
+  <path d="M110 360 L180 300 L260 320 L340 220 L420 260 L500 180 L580 240" stroke="#7dd3fc" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <path d="M110 360 L180 300 L260 320 L340 220 L420 260 L500 180 L580 240 V380 H110 Z" fill="#0ea5e9" fill-opacity="0.12"/>
+  <!-- bars -->
+  <rect x="100" y="440" width="48" height="120" rx="6" fill="url(#dash-bar)" fill-opacity="0.55"/>
+  <rect x="168" y="400" width="48" height="160" rx="6" fill="url(#dash-bar)" fill-opacity="0.45"/>
+  <rect x="236" y="360" width="48" height="200" rx="6" fill="url(#dash-bar)" fill-opacity="0.65"/>
+  <rect x="304" y="420" width="48" height="140" rx="6" fill="url(#dash-bar)" fill-opacity="0.4"/>
+  <rect x="372" y="380" width="48" height="180" rx="6" fill="url(#dash-bar)" fill-opacity="0.5"/>
+  <rect x="440" y="320" width="48" height="240" rx="6" fill="#38bdf8" fill-opacity="0.7"/>
+  <rect x="508" y="400" width="48" height="160" rx="6" fill="url(#dash-bar)" fill-opacity="0.38"/>
+  <!-- right stack -->
+  <rect x="628" y="136" width="524" height="170" rx="18" fill="#0f172a" fill-opacity="0.38" stroke="#38bdf8" stroke-opacity="0.2" stroke-width="1.2"/>
+  <rect x="656" y="168" width="100" height="10" rx="3" fill="#94a3b8" fill-opacity="0.28"/>
+  <rect x="656" y="196" width="220" height="36" rx="8" fill="#e0f2fe" fill-opacity="0.08"/>
+  <rect x="656" y="244" width="180" height="28" rx="6" fill="#1e293b" fill-opacity="0.7"/>
+  <rect x="900" y="196" width="220" height="88" rx="12" fill="#0369a1" fill-opacity="0.25" stroke="#7dd3fc" stroke-opacity="0.35" stroke-width="1"/>
+  <rect x="920" y="216" width="72" height="8" rx="2" fill="#bae6fd" fill-opacity="0.35"/>
+  <rect x="920" y="234" width="160" height="6" rx="2" fill="#e2e8f0" fill-opacity="0.15"/>
+  <rect x="628" y="326" width="524" height="376" rx="18" fill="#0f172a" fill-opacity="0.35" stroke="#0ea5e9" stroke-opacity="0.18" stroke-width="1.2"/>
+  <rect x="656" y="360" width="120" height="10" rx="3" fill="#94a3b8" fill-opacity="0.25"/>
+  <rect x="656" y="388" width="468" height="56" rx="10" fill="#082f49" fill-opacity="0.55"/>
+  <rect x="656" y="460" width="468" height="56" rx="10" fill="#082f49" fill-opacity="0.4"/>
+  <rect x="656" y="532" width="468" height="56" rx="10" fill="#082f49" fill-opacity="0.28"/>
+  <circle cx="1080" cy="408" r="36" stroke="#38bdf8" stroke-opacity="0.45" stroke-width="2" fill="#0ea5e9" fill-opacity="0.15"/>
+  <path d="M1065 408 L1075 418 L1095 392" stroke="#7dd3fc" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+</svg>
